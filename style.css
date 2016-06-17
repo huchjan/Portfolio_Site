@@ -1,0 +1,118 @@
+ .panel-custom {
+            background-color: #e0dddb;
+        }
+        
+        body {
+            background-color: #ffffff;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed;
+        }
+        
+        .abs {
+            position: absolute;
+        }
+        
+        .container {
+            padding: 20px;
+        }
+        
+        .container-jumbohead {
+            padding-top: 350px
+        }
+        
+        .collateral {
+            width: 100%;
+            height: 280px;
+            padding: 20px;
+            margin-bottom: 150px;
+        }
+        
+        .collateral img {
+            width: 100%;
+        }
+        
+        .col-no-padding {
+            padding-top: 0px;
+            padding-right: 0;
+            padding-bottom: 20px;
+            padding-left: 0;
+        }
+        
+        .jumbotron {
+            position: relative;
+            background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), rgba(0, 0, 0, 1)), url("aspen_mountains.jpg") center center;
+            height: 700px;
+            background-size: cover;
+            text-align: center;
+            color: white;
+        }
+        
+        .jumbotron-sub {
+            padding: 5px 50px 10px 50px
+        }
+        
+        h1 {
+            color: white;
+            text-align: center;
+            padding-bottom: 40;
+        }
+        
+        h2 {
+            font-size: 300%;
+            color: black;
+            text-align: center;
+        }
+        
+        h3 {
+            text-align: center;
+        }
+        
+        .toprowlinks {
+            text-align: center;
+            color: white;
+            font-weight: bold;
+            font-size: 80%
+        }
+        
+        .cutlines {
+            text-align: center;
+            font-size: 130%;
+            padding: 10px 0 10px 0;
+        }
+        
+        .jumbotron-bottom {
+            position: relative;
+            background: #383838 center center;
+            height: 700px;
+            background-size: cover;
+            margin-top: 30px;
+            padding: 10px 0 0 0;
+            color: white;
+        }
+        
+        .col {
+            color: white;
+            text-align: left;
+        }
+        
+        .container-footer {
+            padding: 5px 70px 0 70px;
+        }
+        
+        .footer-img {
+            height: 100%;
+            image-orientation: center;
+            margin: 20px 0 0 0;
+        }
+        
+        .footer-text {
+            text-align: justify;
+            font-size: 130%;
+            padding-top: 15px 200px 0 200px;
+        }
+        
+        .footer-copyright {
+            text-align: center;
+            font-size: 100%;
+        }
